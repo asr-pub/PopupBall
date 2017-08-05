@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">PopupBall</string>
+    <string name="btn_popup_ball">Popup Ball</string>
 </resources>
